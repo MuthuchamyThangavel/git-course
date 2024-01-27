@@ -12,3 +12,5 @@ thsis is seond change
 fourht commit statement
 --------------------------------
 
+take the input from user
+update the status
