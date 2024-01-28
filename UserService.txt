@@ -1,2 +1,6 @@
 Get the user data from service layer
-Process the data....
+Process the data....git
+
+create an avtar for user.. Process  git
+
+i wil do new feature
